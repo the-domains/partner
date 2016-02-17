@@ -1,0 +1,28 @@
+name: Partner
+favicon: null
+layout_spectrum: 0.4762507523410022
+typography_spectrum: 0.41174109070561826
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6368101697880775
+  lightness: 0.27063575899228454
+  saturation: 0.39740554546006024
+  rhythmicContrast: 0.7638757568784058
+purpose: []
